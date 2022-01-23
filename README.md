@@ -71,4 +71,5 @@ Despite the slight differences in averages and percentages for Thomas High Schoo
   
 # Summary
 After completing the analysis with the modified data, we can conclude that the removal of the 9th grade class of Thomas High School had a miniscule effect upon the overall analysis of the district. That makes sense because 461 students out of a total 39,170 students in the district was a considerably small amount. Nonetheless, we were able to establish a trend across the new analysis. 
+
 Overall, passing rates decreased, as seen by a decrease in average math scores and all passing percentages across the board. The changes were not astounding but still noteworthy. However, it was seen that average reading scores slightly increased in every section of the analysis. 9th grade reading scores at Thomas High School may have been below average, and the removal of that data led to a small increase in average reading scores. Either way, Thomas High School still maintained positive statistical performance, although its reputation for academic dishonesty remains a different story. 
